@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Hit the gym",
+        "status": true
+    },
+    {
+        "name": "Pay bills",
+        "status": true
+    },
+    {
+        "name": "Meet George",
+        "status": true
+    },
+    {
+        "name": "Buy eggs",
+        "status": true
+    }
+]
